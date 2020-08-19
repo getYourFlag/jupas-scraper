@@ -6,7 +6,8 @@ A python web scraper designed to scrap JUPAS website automatically to fetch the 
 This scraper uses two pip packages: bs4 (BeautifulSoup, for parsing HTML files) and tqdm (for displaying progress bar). The required packages were specified in the ```requirements.txt``` file.
 
 ## Usage
-After installing the required packages, run ```python3 scrap.py```
+After installing the required packages, run ```python3 scrap.py```.
+The results will be shown in the ```programmes.json``` file, formatted to be human readable.
 
 ## Results
 
