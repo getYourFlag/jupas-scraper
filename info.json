@@ -1,0 +1,45 @@
+{
+    "universities": ["cityu", "hkbu", "lingnanu", "cuhk", "eduhk", "polyu", "hku", "hkust", "ouhk"],
+    "universityNames": {
+        "cityu": "CityU",
+        "hkbu": "BU",
+        "lingnanu": "LU",
+        "cuhk": "CU",
+        "eduhk": "EDU",
+        "polyu": "PolyU",
+        "hku": "HKU",
+        "hkust": "UST",
+        "ouhk": "OU"
+    },
+    "compulsorySubjectNames": {
+        "CHINESE LANGUAGE": "chinese",
+        "ENGLISH LANGUAGE": "english",
+        "LIBERAL STUDIES": "ls",
+        "MATHEMATICS COMPULSORY PART": "maths"
+    },
+    "electiveNames": {
+        "PHYSICS or COMBINED SCIENCE WITH PHYSICS COMPONENT": ["Phy", "CSCP", "CSBP"],
+        "CHEMISTRY or COMBINED SCIENCE WITH CHEMISTRY COMPONENT": ["Chem", "CSBC", "CSCP"],
+        "BIOLOGY or COMBINED SCIENCE WITH BIOLOGY COMPONENT": ["Bio", "CSBC", "CSBP"],
+        "COMBINED SCIENCE WITH CHEMISTRY and PHYSICS COMPONENTS": ["CSCP"],
+        "COMBINED SCIENCE WITH BIOLOGY and CHEMISTRY COMPONENTS": ["CSBC"],
+        "COMBINED SCIENCE WITH BIOLOGY and PHYSICS COMPONENTS": ["CSBP"],
+        "COMBINED SCIENCE": ["CSBC", "CSBP", "CSCP"],
+        "INTEGRATED SCIENCE": ["IS"],
+        "DESIGN AND APPLIED TECHNOLOGY": ["Design"],
+        "BUSINESS, ACCOUNTING AND FINANCIAL STUDIES (ACCOUNTING)": ["BAFS"],
+        "BUSINESS, ACCOUNTING AND FINANCIAL STUDIES (BUSINESS MANAGEMENT)": ["BAFS"],
+        "MATHEMATICS EXTENDED MODULE 1 OR 2": ["aMaths"],
+        "MATHEMATICS EXTENDED PART (ALGEBRA AND CALCULUS)": ["aMaths"],
+        "MATHEMATICS EXTENDED PART (CALCULUS AND STATISTICS)": ["aMaths"],
+        "PHYSICS": ["Phy"],
+        "CHEMISTRY": ["Chem"],
+        "BIOLOGY": ["Bio"],
+        "CHINESE HISTORY": ["CHis"],
+        "HISTORY": ["His"],
+        "INFORMATION AND COMMUNICATION TECHNOLOGY": ["ICT"],
+        "GEOGRAPHY": ["Geog"],
+        "TECHNOLOGY AND LIVING (FOOD SCIENCE AND TECHNOLOGY)": ["Tech"],
+        "ECONOMICS": ["Econ"]
+    }
+}
